@@ -1,0 +1,12 @@
+LINGUAGEM DE PROGRAMAÇÃO
+
+PYTHON --> Script que lê um arquivo de texto, conta as palavras e mostra o total
+NODEJS --> Configurar Servidor de APIs em tempo real
+JAVA --> Aplicações corporativas e Android
+R --> Análise estatística e visualização de dados
+GOLANG --> Sistemas de alto desempenho e servidores escaláveis
+PHP ---> Desenvolvimento web (lado do servidor)
+
+----------------------------------
+BIBLIOTECAS --> PYTHON  (pip install) São pacotes prontos que você instala para facilitar o desenvolvimento.
+API EXTERNAS --> São serviços online com os quais seu programa pode se conectar para buscar ou enviar dados.
