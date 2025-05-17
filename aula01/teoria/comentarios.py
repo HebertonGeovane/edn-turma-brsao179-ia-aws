@@ -7,7 +7,7 @@ E é um comentário que eu utilizo para explicar o código
 """
 
 def calcular_media(numeros):
-
+ 
     """ Esta é uma docstring que explica a função. 
 
     Calcula a média aritmética de uma lista de números

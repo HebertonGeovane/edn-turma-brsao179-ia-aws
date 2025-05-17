@@ -6,7 +6,7 @@ largura = 14
 altura = 20
 
 # Calcular o volume da caixa
-volume = comprimento * largura * altura
+volume = comprimento * largura * altura 
 
 # Exibe o resultado
 print(f"O volume da caixa é {volume} cm³")

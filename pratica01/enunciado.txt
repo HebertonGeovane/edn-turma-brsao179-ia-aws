@@ -20,4 +20,4 @@ O programa deve calcular o volume e exibir o resultado em cm³.
 * Nome do produto: "Cadeira Infantil"
 * Preço unitário: R$ 12.40
 * Quantidade: 3
-O programa deve calcular o preço total e exibir todas as informações, incluindo o resultado final.
+O programa deve calcular o preço total e exibir todas as informações, incluindo o resultado final. 

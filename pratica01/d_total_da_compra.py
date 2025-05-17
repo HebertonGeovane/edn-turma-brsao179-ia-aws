@@ -6,7 +6,7 @@ preco_unitario = 12.40
 quantidade = 3
 
 # Calcula o preço total
-preco_total = preco_unitario * quantidade
+preco_total = preco_unitario * quantidade 
 
 # Exibe o resultado
 print(f"Produto: {nome_produto}")
