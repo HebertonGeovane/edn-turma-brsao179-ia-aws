@@ -1,6 +1,6 @@
 nome = "Heberton"
-#_nome = "Heberton"
-#nome = 2025
+nome = "Heberton"
+nome = 2025
 sobrenome_heberton = "Geovane"
 Nome = "Heberton2"
 
