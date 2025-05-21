@@ -4,7 +4,7 @@
 
 #em python
 esta_chovendo = False
-esta_ensolarado = True
+esta_ensolarado = False
 cor_do_guarda_chuva = "Preto"
 
 def levar_guarda_chuva(cor):
