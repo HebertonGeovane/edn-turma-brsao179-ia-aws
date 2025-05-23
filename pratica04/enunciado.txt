@@ -1,0 +1,101 @@
+🧮 Exercício 01 – Criando uma Calculadora Simples
+
+Objetivo: Criar uma calculadora que permita ao usuário realizar operações básicas (adição, subtração, multiplicação e divisão) entre dois números.
+
+Instruções:
+
+Peça ao usuário para digitar dois números (podem ser decimais).
+
+Depois, pergunte qual operação ele deseja fazer:
+
++ para adição
+
+- para subtração
+
+* para multiplicação
+
+/ para divisão
+
+Mostre o resultado da operação escolhida.
+
+Caso o usuário digite uma operação inválida ou tente dividir por zero, mostre uma mensagem de erro e permita que ele tente novamente.
+
+🔁 A calculadora deve continuar pedindo os dados até que o usuário forneça tudo corretamente.
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+📝 Exercício 02 – Registro de Notas da Turma
+
+Objetivo: Criar um programa que permita registrar notas de alunos e calcular a média da turma.
+
+Instruções:
+
+O programa deve pedir ao usuário que digite a nota de um aluno.
+
+O usuário pode continuar digitando notas até escrever fim para encerrar.
+
+As notas devem ser números entre 0 e 10.
+
+Se a nota estiver fora desse intervalo, mostre uma mensagem de erro e peça novamente.
+
+Se o usuário digitar algo que não seja número nem "fim", mostre uma mensagem de erro.
+
+Quando o usuário digitar fim, o programa deve:
+
+Mostrar a média das notas registradas.
+
+Mostrar quantas notas válidas foram digitadas.
+
+💡 O programa deve continuar pedindo novas notas até que o usuário escreva “fim”.
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+🔐 Exercício 03 – Verificando a Força de uma Senha
+
+Objetivo: Criar um programa que verifique se uma senha digitada pelo usuário é segura.
+
+Instruções:
+
+Peça ao usuário que digite uma senha.
+
+O programa deve verificar se a senha atende aos seguintes critérios:
+
+Ter pelo menos 8 caracteres.
+
+Conter pelo menos um número.
+
+Se a senha não atender a esses critérios, o programa deve mostrar uma mensagem informando o que está faltando e pedir a senha novamente.
+
+Se a senha for válida, mostre a mensagem “Senha forte e válida!” e encerre o programa.
+
+O usuário pode digitar sair a qualquer momento para encerrar o programa.
+
+💡 O programa deve continuar pedindo uma nova senha até que o usuário digite uma senha válida ou escreva “sair”.
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+🔢 Exercício 04 – Analisador de Números Pares e Ímpares
+
+Objetivo: Criar um programa que identifique se um número é par ou ímpar e mostre um resumo ao final.
+
+Instruções:
+
+O programa deve pedir que o usuário digite um número inteiro.
+
+O usuário pode continuar digitando números até escrever fim para encerrar.
+
+Para cada número digitado:
+
+Se for par, o programa deve informar isso.
+
+Se for ímpar, o programa também deve informar.
+
+O programa deve contar quantos pares e quantos ímpares foram digitados.
+
+Se o usuário digitar algo que não seja um número inteiro, mostre uma mensagem de erro e peça novamente.
+
+Ao digitar "fim", o programa deve mostrar:
+
+A quantidade total de números pares.
+
+A quantidade total de números ímpares
