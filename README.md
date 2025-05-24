@@ -61,7 +61,7 @@ Este repositório está dividido em pastas com as seguintes atividades:
 | Prática 02     | Exercícios práticos da Aula 02             | Aplicada em 24/05/2025 |
 | Aula 03        | Algoritmos                                 | Aplicada em 24/05/2025 |
 | Prática 03     | Exercícios práticos da Aula 03             | Aplicada em 24/05/2025 |
-| Prática 04     | Exercícios práticos da semana 04           | Aplicada em 24/05/2025 |
+| Prática 04     | Exercícios práticos da semana 03           | Aplicada em 24/05/2025 |
 
 ---
 ## Temas cobertos:
