@@ -11,4 +11,4 @@ altura = float(input("Digite sua altura em metros: "))   #captura e converte alt
 print("\nResumo de suas informações: ")
 print("Nome:", nome)
 print("Idade:", idade, "anos")
-print("Altura:", altura, "metros")
+print("Altura:", altura, "metros" )
