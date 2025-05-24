@@ -27,8 +27,54 @@ O objetivo deste repositório é compartilhar o conhecimento adquirido durante a
 
 Este repositório está dividido em pastas com as seguintes atividades:
 
-- **aula01/**: Conteúdo e atividades da primeira aula sobre os fundamentos de IA e AWS.
-- **pratica01/**: Exercícios práticos que envolvem a aplicação dos conceitos de IA.
+## Pastas principais:
+
+- **aula01/**  
+  Conteúdo e atividades da Aula 01 — Introdução à Programação.
+
+- **aula02/**  
+  Conteúdo e atividades da Aula 02 — Configuração de Ambientes - Parte I.
+
+- **aula03/**  
+  Conteúdo e atividades da Aula 03 — Algoritmos.
+
+- **pratica01/**  
+  Exercícios práticos relacionados à Aula 01.
+
+- **pratica02/**  
+  Exercícios práticos relacionados à Aula 02 e demais práticas da semana 02.
+
+- **pratica03/**  
+  Exercícios práticos relacionados à semana 02 e 03.
+
+- **pratica04/**  
+  Exercícios práticos da semana 03.
+
+---
+## Visão geral das aulas e práticas:
+
+| Aula / Prática | Descrição breve                             | Data da aplicação   |
+|----------------|--------------------------------------------|---------------------|
+| Aula 01        | Introdução à Programação                   | Aplicada em 16/05/2025 |
+| Prática 01     | Exercícios práticos da Aula 01             | Aplicada em 16/05/2025 |
+| Aula 02        | Configuração de Ambientes - Parte I         | Aplicada em 24/05/2025 |
+| Prática 02     | Exercícios práticos da Aula 02             | Aplicada em 24/05/2025 |
+| Aula 03        | Algoritmos                                 | Aplicada em 24/05/2025 |
+| Prática 03     | Exercícios práticos da Aula 03             | Aplicada em 24/05/2025 |
+| Prática 04     | Exercícios práticos da semana 04           | Aplicada em 24/05/2025 |
+
+---
+## Temas cobertos:
+
+- Aula 01: Introdução à Programação  
+- Aula 02: Configuração de Ambientes (Parte I)  
+- Aula 03: Algoritmos  
+- Aula 04: Terminologias Gerais  
+- Aula 05: Estrutura Básica e Operadores  
+- Aula 06: Entrada de Dados  
+- Aula 07: Estruturas de Controle + Exemplos Práticos (Parte I e II)  
+- Aula 08: Estrutura de repetição e controle de fluxo  
+- Aula 09: Introdução às Funções (Parte I)  
 
 ---
 ## Tecnologias Utilizadas
